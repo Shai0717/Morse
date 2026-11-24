@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "min_format": [
+      121,
+      0
+    ],
+    "max_format": 121,
+    "description": "Morse Code Pack"
+  }
+}

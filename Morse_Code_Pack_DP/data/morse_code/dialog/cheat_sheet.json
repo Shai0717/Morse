@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:notice",
+  "title": {
+    "text": "Morse Code Cheat Sheet"
+  },
+  "body": [
+    {
+      "type": "minecraft:plain_message",
+      "width": 200,
+      "contents": {
+        "text": "Korean consonants\nㄱ  ._..\nㄲ  ._.. ._..\nㄳ  ._.. __.\nㄴ  .._.\nㄵ  .._. .__.\nㄶ  .._. .___\nㄷ  _...\nㄸ  _... _...\nㄹ  ..._\nㄺ  ..._ ._..\nㄻ  ..._ __\nㄼ  ..._ .__\nㄽ  ..._ __.\nㄾ  ..._ __..\nㄿ  ..._ ___\nㅀ  ..._ .___\nㅁ  __\nㅂ  .__\nㅃ  .__ .__\nㅄ  .__ __.\nㅅ  __.\nㅆ  __. __.\nㅇ  _._\nㅈ  .__.\nㅉ  .__. .__.\nㅊ  _._.\nㅋ  _.._\nㅌ  __..\nㅍ  ___\nㅎ  .___"
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "width": 200,
+      "contents": {
+        "text": "Korean vowels\nㅏ  .\nㅐ  __._\nㅑ  ..\nㅒ  .. .._\nㅓ  _\nㅔ  _.__\nㅕ  ...\nㅖ  ... .._\nㅗ  ._\nㅘ  ._ .\nㅙ  ._ __._\nㅚ  ._ .._\nㅛ  _.\nㅜ  ....\nㅝ  .... _\nㅞ  .... _.__\nㅟ  .... .._\nㅠ  ._.\nㅡ  _..\nㅢ  _.. .._\nㅣ  .._"
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "width": 200,
+      "contents": {
+        "text": "English\nA  ._\nB  _...\nC  _._.\nD  _..\nE  .\nF  .._.\nG  __.\nH  ....\nI  ..\nJ  .___\nK  _._\nL  ._..\nM  __\nN  _.\nO  ___\nP  .__.\nQ  __._\nR  ._.\nS  ...\nT  _\nU  ...._\nV  .._\nW  ..._\nX  .__\nY  _.._\nZ  _.__"
+      }
+    },
+    {
+      "type": "minecraft:plain_message",
+      "width": 200,
+      "contents": {
+        "text": "Numbers\n0  __..\n1  _____\n2  .____\n3  ..___\n4  ...__\n5  ...._\n6  .....\n7  _....\n8  __...\n9  ___.."
+      }
+    }
+  ],
+  "action": {
+    "label": {
+      "text": "Close"
+    }
+  }
+}
