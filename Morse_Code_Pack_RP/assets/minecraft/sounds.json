@@ -1,0 +1,34 @@
+{
+  "ui.button.click": {
+    "replace": true,
+    "sounds": [
+      "minecraft:morse/dit"
+    ]
+  },
+  "entity.item.pickup": {
+    "replace": true,
+    "sounds": [
+      "minecraft:morse/dit"
+    ],
+    "subtitle": "subtitles.entity.item.pickup"
+  },
+  "entity.experience_orb.pickup": {
+    "replace": true,
+    "sounds": [
+      "minecraft:morse/dit"
+    ],
+    "subtitle": "subtitles.entity.experience_orb.pickup"
+  },
+  "ui.toast.in": {
+    "replace": true,
+    "sounds": [
+      "minecraft:morse/dah"
+    ]
+  },
+  "ui.toast.out": {
+    "replace": true,
+    "sounds": [
+      "minecraft:morse/dit"
+    ]
+  }
+}
