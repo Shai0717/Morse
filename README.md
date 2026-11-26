@@ -99,3 +99,6 @@ https://morsecodes.net/alphabet/korean
 내용은 [GNU GPL 버전 3](https://www.gnu.org/licenses/gpl-3.0.txt)에서
 확인할 수 있습니다. Minecraft 게임 및 해당 언어 파일은 별도 권리와
 라이선스가 적용됩니다.
+
+
+<iframe src="https://github.com/sponsors/Shai0717/card" title="Sponsor Shai0717" height="225" width="600" style="border: 0;"></iframe>
